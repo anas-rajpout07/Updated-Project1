@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd9fc702d92241d4aae64e426d098f7a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181470
+  packageName: Survivalist character
+  packageVersion: 1.2
+  assetPath: Assets/Survivalist/Materials URP/URP_Hands1_Skin1.mat
+  uploadId: 762486
